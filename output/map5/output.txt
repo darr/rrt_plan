@@ -1,0 +1,5 @@
+rrt_main.py line:44 start point:[  5.   5. 160.]
+rrt_main.py line:46 goal point:[ 35.  35. 180.]
+rrt_plan.py line:113 [(5.0, 5.0, 160.0), (18, 9, 186), (20, 29, 170), (31, 34, 177), (35.0, 35.0, 180.0)]
+rrt_main.py line:47 iter:80
+rrt_main.py line:48 time used = 0.03031611442565918 s
